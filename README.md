@@ -45,13 +45,15 @@ X * What are the other major companies in this domain?
 
 MintGreen's renewable energy-powered mining centers are helping businesses and communities lower their carbon footprint, along with cryptocurrency mining as a whole. MintGreen has proven that not only is heat recovery and distribution from the cryptocurrency mining process possible but mining can also serve a two-fold purpose. MintGreen's current 12-year contract with LEC requires the company provide at least 96% of its energy to LEC in the form of heat. If MintGreen meets this demand, it is estimated that its Digital Boilers™ will prevent roughly 20,000 tonnes of greenhouse gases from entering the atmosphere over the term of the contract, when compared to energy supplied by natural gas.<sup>[[4]](#ref4)[[13]](#ref13)</sup>
 
-* What has been the business impact of this company so far?
+X * What has been the business impact of this company so far?
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+X * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+X * How is your company performing relative to competitors in the same domain?
 
 ## Recommendations
+
+While MintGreen's heat recovery and distribution system is already a first of its kind, the idea sets the company up for other potential firsts.
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
