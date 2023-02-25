@@ -16,9 +16,13 @@ X * How is the company funded? How much funding have they received?
 
 ## Business Activities:
 
+MintGreen is using their proprietary Digital Boilers<sup>TM</sup> to address ecological concerns faced by two seemingly separate industries. The following is from MintGreen's website:
+> MintGreen solves the greatest challenges facing Bitcoin and industrial heating: power costs and sustainability.
+> We supply industrial partners and district energy utilities with cost leading zero carbon heat from our proprietary Digital Boilers<sup>TM</sup>.
 
 
-* What specific financial problem is the company or project trying to solve?
+
+X * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
