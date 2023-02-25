@@ -16,15 +16,14 @@ X * How is the company funded? How much funding have they received?
 
 ## Business Activities:
 
-MintGreen is using their proprietary Digital Boilers<sup>TM</sup> to address ecological concerns faced by two seemingly separate industries. The following is from MintGreen's website:
-> MintGreen solves the greatest challenges facing Bitcoin and industrial heating: power costs and sustainability.
-> We supply industrial partners and district energy utilities with cost leading zero carbon heat from our proprietary Digital Boilers<sup>TM</sup>.
+MintGreen is using their proprietary Digital Boilers<sup>TM</sup> to address ecological concerns faced by two seemingly separate industries. The following is from MintGreen's website<sup>[[1]](https://mintgreen.co/):
+> MintGreen solves the greatest challenges facing Bitcoin and industrial heating: power costs and sustainability. We use clean energy to mine crypto and heat communities sustainably. We supply industrial partners and district energy utilities with cost leading zero carbon heat from our proprietary Digital Boilers<sup>TM</sup>.
 
-
+With the increasing global initiative to reduce humanity's carbon footprint, communities and companies are facing increased pressure to develop sustainable methods for their activities and services. In October of 2021, Lonsdale Energy Corporation (LEC), the regulated energy provider for the City of North Vancouver in British Columbia, announced that they were working with MintGreen to add clean energy to their district energy system.<sup>[[5]](https://www.cnv.org/Business-Development/Lonsdale-Energy/Latest-News-and-Updates)
 
 X * What specific financial problem is the company or project trying to solve?
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+X * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -59,4 +58,5 @@ X * What specific financial problem is the company or project trying to solve?
 <sup>[1]</sup> https://mintgreen.co/  
 <sup>[2]</sup> https://www.crunchbase.com/organization/mintgreen  
 <sup>[3]</sup> https://www.vantechjournal.com/p/mintgreen-north-vancouver  
-<sup>[4]</sup> https://compassmining.io/education/mint-green-bitcoin-mining-podcast/
+<sup>[4]</sup> https://compassmining.io/education/mint-green-bitcoin-mining-podcast/  
+<sup>[5]</sup> https://www.cnv.org/Business-Development/Lonsdale-Energy/Latest-News-and-Updates
