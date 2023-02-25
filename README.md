@@ -59,14 +59,14 @@ X * What are the other major companies in this domain?
 
 * Why are these technologies appropriate for your solution?
 
-<sup> [1]</sup> https://mintgreen.co/  
-<sup> [2]</sup> https://www.crunchbase.com/organization/mintgreen  
-<sup> [3]</sup> https://www.vantechjournal.com/p/mintgreen-north-vancouver  
-<sup> [4]</sup> https://compassmining.io/education/mint-green-bitcoin-mining-podcast/  
-<sup> [5]</sup> https://www.cnv.org/Business-Development/Lonsdale-Energy/Latest-News-and-Updates  
-<sup> [6]</sup> https://www.coindesk.com/layer2/miningweek/2022/03/24/7-wild-bitcoin-mining-rigs/  
-<sup> [7]</sup> https://bitcoinmagazine.com/business/bitcoin-mining-heat-capture-startup-mintgreen-closes-seed-financing-round  
-<sup> [8]</sup> https://bitcoinmagazine.com/culture/bitcoin-environmental-debate-is-wrong  
-<sup> [9]</sup> https://www.itworldcanada.com/article/canadas-big-5-banks-launch-blockchain-based-digital-identity-service-with-securekey/417406  
+<sup>&nbsp;[1]</sup> https://mintgreen.co/  
+<sup>&nbsp;[2]</sup> https://www.crunchbase.com/organization/mintgreen  
+<sup>&nbsp;[3]</sup> https://www.vantechjournal.com/p/mintgreen-north-vancouver  
+<sup>&nbsp;[4]</sup> https://compassmining.io/education/mint-green-bitcoin-mining-podcast/  
+<sup>&nbsp;[5]</sup> https://www.cnv.org/Business-Development/Lonsdale-Energy/Latest-News-and-Updates  
+<sup>&nbsp;[6]</sup> https://www.coindesk.com/layer2/miningweek/2022/03/24/7-wild-bitcoin-mining-rigs/  
+<sup>&nbsp;[7]</sup> https://bitcoinmagazine.com/business/bitcoin-mining-heat-capture-startup-mintgreen-closes-seed-financing-round  
+<sup>&nbsp;[8]</sup> https://bitcoinmagazine.com/culture/bitcoin-environmental-debate-is-wrong  
+<sup>&nbsp;[9]</sup> https://www.itworldcanada.com/article/canadas-big-5-banks-launch-blockchain-based-digital-identity-service-with-securekey/417406  
 <sup>[10]</sup> https://medicalchain.com/en/  
 <sup>[11]</sup> https://www.hyperledger.org/learn/publications/walmart-case-study
