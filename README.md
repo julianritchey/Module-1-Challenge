@@ -33,11 +33,13 @@ X * Which technologies are they currently using, and how are they implementing t
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+As a miner in the blockchain and crypto domain, MintGreen is subject to an ever-changing terrain. Blockchain and crypto have experienced widespread adoption and use by various industries in recent years. In Canada, major financial institutions like CIBC utilize a blockchain-based service from SecureKey Technologies Inc. for client identification; in England, healthcare patients can utilize a blockchain-based service from Medicalchain SA for sharing and storing personal health records; in the United States, companies like Walmart are utilizing blockchains like Hyperledger Fabric to track the origin and movement of various products.<sup>[[9]](https://www.itworldcanada.com/article/canadas-big-5-banks-launch-blockchain-based-digital-identity-service-with-securekey/417406)[[10]](https://medicalchain.com/en/)[[11]](https://www.hyperledger.org/learn/publications/walmart-case-study)</sup>
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+X * What domain of the financial industry is the company in?
 
-* What are the other major companies in this domain?
+X * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+X * What are the other major companies in this domain?
 
 ## Results
 
@@ -64,4 +66,7 @@ X * Which technologies are they currently using, and how are they implementing t
 <sup>[5]</sup> https://www.cnv.org/Business-Development/Lonsdale-Energy/Latest-News-and-Updates  
 <sup>[6]</sup> https://www.coindesk.com/layer2/miningweek/2022/03/24/7-wild-bitcoin-mining-rigs/  
 <sup>[7]</sup> https://bitcoinmagazine.com/business/bitcoin-mining-heat-capture-startup-mintgreen-closes-seed-financing-round  
-<sup>[8]</sup> https://bitcoinmagazine.com/culture/bitcoin-environmental-debate-is-wrong
+<sup>[8]</sup> https://bitcoinmagazine.com/culture/bitcoin-environmental-debate-is-wrong  
+<sup>[9]</sup> https://www.itworldcanada.com/article/canadas-big-5-banks-launch-blockchain-based-digital-identity-service-with-securekey/417406  
+<sup>[10]</sup> https://medicalchain.com/en/  
+<sup>[11]</sup> https://www.hyperledger.org/learn/publications/walmart-case-study
