@@ -23,11 +23,11 @@ X * How is the company funded? How much funding have they received?
 
 ## Business Activities
 
-MintGreen is using its proprietary Digital Boilers™ to address ecological concerns faced by two seemingly separate industries. The following is from MintGreen's website<sup>[[1]](#ref1)</sup>:
+MintGreen is using its proprietary Digital Boilers™ to address ecological concerns faced by two seemingly separate industries. The following is from MintGreen's website:<sup>[[1]](#ref1)</sup>
 > MintGreen solves the greatest challenges facing Bitcoin and industrial heating: power costs and sustainability. We use clean energy to mine crypto and heat communities sustainably. We supply industrial partners and district energy utilities with cost leading zero carbon heat from our proprietary Digital Boilers™.
 
-With the increasing global initiative to reduce humanity's carbon footprint, communities and companies are facing increased pressure to find or develop sustainable methods for their activities and services. In October of 2021, Lonsdale Energy Corporation (LEC), the regulated energy provider for the City of North Vancouver in British Columbia, announced they were working with MintGreen to add clean energy to their district energy system. Regarding the process, LEC stated the following:<sup>[[5]](#ref5)[[6]](#ref6)</sup>
-> MintGreen will be operating a data computing operation which results in waste heat being generated. LEC will be recovering this heat and injecting it into LEC’s heating grid. For clarity, LEC is not involved in the data computing process; LEC is solely recovering otherwise wasted heat.
+With the increasing global initiative to reduce humanity's carbon footprint, communities and companies are facing increased pressure to find or develop sustainable methods for their activities and services. In October of 2021, Lonsdale Energy Corporation (LEC), the regulated energy provider for the City of North Vancouver in British Columbia, announced they were working with MintGreen to add clean energy to their district energy system. Regarding the process, LEC stated the following:<sup>[[5]](#ref5)</sup>
+> MintGreen will be operating a data computing operation which results in waste heat being generated. LEC will be recovering this heat and injecting it into LEC’s heating grid. For clarity, LEC is not involved in the data computing process; LEC is solely recovering otherwise wasted heat.<sup>[[6]](#ref6)</sup>
 
 Prior to the announcement, MintGreen had set up two pilot projects, selling waste heat from mining to a sea salt production company for the evaporation of sea water, and to Shelter Point Distillery in Vancouver, British Columbia, for the heating of aging barrels.<sup>[[5]](#ref5)[[6]](#ref6)</sup>
 
