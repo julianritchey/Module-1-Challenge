@@ -53,17 +53,20 @@ X * How is your company performing relative to competitors in the same domain?
 
 ## Recommendations
 
-While MintGreen's heat recovery and distribution system is already a first of its kind, the idea sets the company up for other potential firsts.
+While MintGreen's distribution of recovered mining heat to district energy suppliers for residential and commercial heating is already a first of its kind, the idea sets the company up for other potential firsts. One such potential first could be the use of recovered heat for boiling water to supply steam-powered generators. The generators could then feed power back into the local power grid, offsetting some of the mining center's power consumption. If the mining centers are located near hydroelectric generation facilities, there would be an ample supply of power and water for the mining and steam generation process. In terms of energy usage, this idea would benefit no entity other than MintGreen, though it could provide them with inexpensive power for mining endeavours.
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Another potential first could be the development of point-of-use heating-and-mining devices. These devices could utilize a throttle mechanism that turns individual mining units on and off based on feedback from a thermostat. The devices could also be adapted to provide cooling through a heat-powered refrigeration system, much like gas-powered refrigerators. In addition to earning mined cryptocurrency, MintGreen could lease these units at low costs to end-users, reducing users' utility costs and carbon footprint, and potentially earning them carbon credits (depending on the location of use). These point-of-use devices could provide alternative heating and cooling services to locations not tied into a district energy system.
 
-* Why do you think that offering this product or service would benefit the company?
+X * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* What technologies would this additional product or service utilize?
+X * Why do you think that offering this product or service would benefit the company?
 
-* Why are these technologies appropriate for your solution?
+X * What technologies would this additional product or service utilize?
+
+X * Why are these technologies appropriate for your solution?
 
 ## References
+
 1. <a name="ref1"></a>https://mintgreen.co/  
 2. <a name="ref2"></a>https://www.crunchbase.com/organization/mintgreen  
 3. <a name="ref3"></a>https://compassmining.io/education/mint-green-bitcoin-mining-podcast/  
