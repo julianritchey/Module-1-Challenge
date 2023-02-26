@@ -41,10 +41,9 @@ X * Which technologies are they currently using, and how are they implementing t
 ## Landscape:
 
 As a miner in the blockchain and crypto domain, MintGreen is subject to an ever-changing terrain. Blockchain and crypto have experienced widespread adoption and use by various industries in recent years. For example,
-- in Canada, major financial institutions like CIBC utilize a blockchain-based service from SecureKey Technologies Inc. for client identification;
-- in England, healthcare patients can utilize a blockchain-based service from Medicalchain SA for sharing and storing personal health records;
-- in the United States, companies like Walmart Inc. are utilizing blockchains like Hyperledger Fabric to track the origin and movement of various products.
-<sup>[[10]](#ref10)[[11]](#ref11)[[12]](#ref12)</sup>
+- in Canada, major financial institutions like CIBC utilize a blockchain-based service from SecureKey Technologies Inc. for client identification;<sup>[[10]](#ref10)</sup>
+- in England, healthcare patients can utilize a blockchain-based service from Medicalchain SA for sharing and storing personal health records;<sup>[[11]](#ref11)</sup>
+- in the United States, companies like Walmart Inc. are utilizing blockchains like Hyperledger Fabric to track the origin and movement of various products.<sup>[[12]](#ref12)</sup>
 
 Some of the other major players in the Canadian blockchain and crypto domain include
 - Hut 8, one of the largest mining companies in the world,<sup>[[13]](#ref13)</sup>
