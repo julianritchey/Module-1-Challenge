@@ -43,8 +43,8 @@ Moving forward, MintGreen's key performance indicators will be the following:
 
 - Percentage of energy recovered.
 
-    MintGreen claims its system can recover 96% of the energy used in the cryptocurrency mining process. The company will need to ensure its systems maintain this target as a minimum. MintGreen's current 12-year contract with LEC requires it provide *at least* 96% of its energy to LEC in the form of heat. Sullivan has stated:<sup>[[4]](#ref4)[[16]](#ref16)</sup>
-    > We think we can do better than that.
+    MintGreen claims its system can recover 96% of the energy used in the cryptocurrency mining process. The company will need to ensure its systems maintain this target as a minimum. Regarding the company's current 12-year contract with LEC, Sullivan has stated:<sup>[[4]](#ref4)[[16]](#ref16)</sup>
+    > In our work, we're contractually obligated to provide 96% of our energy in the form of heat. We think we can do better than that.
 
 - Greenhouse gases (GHGs) prevented.
 
