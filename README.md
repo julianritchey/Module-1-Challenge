@@ -21,7 +21,7 @@ X * How did the idea for the company (or project) come about?
 
 X * How is the company funded? How much funding have they received?
 
-## Business Activities:
+## Business Activities
 
 MintGreen is using their proprietary Digital Boilers™ to address ecological concerns faced by two seemingly separate industries. The following is from MintGreen's website<sup>[[1]](#ref1)</sup>:
 > MintGreen solves the greatest challenges facing Bitcoin and industrial heating: power costs and sustainability. We use clean energy to mine crypto and heat communities sustainably. We supply industrial partners and district energy utilities with cost leading zero carbon heat from our proprietary Digital Boilers™.
@@ -38,7 +38,7 @@ X * What solution does this company offer that their competitors do not or canno
 
 X * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-## Landscape:
+## Landscape
 
 As a miner in the blockchain and crypto domain, MintGreen is subject to an ever-changing terrain. Blockchain and crypto have experienced widespread adoption and use by various industries in recent years. For example,
 - in Canada, major financial institutions like CIBC utilize a blockchain-based service from SecureKey Technologies Inc. for client identification;<sup>[[10]](#ref10)</sup>
