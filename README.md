@@ -39,7 +39,7 @@ Some of the other major players in the Canadian blockchain and crypto domain inc
 
 MintGreen's renewable energy-powered mining centers are helping businesses and communities lower their carbon footprint, along with cryptocurrency mining as a whole. MintGreen has proven that not only is heat recovery and distribution from the cryptocurrency mining process possible but mining can also serve a two-fold purpose.
 
-Moving forward, MintGreen's primary key performance indicators (KPIs) will be the following:
+Moving forward, MintGreen's key performance indicators will be the following:
 
 - Percentage of energy recovered.
 
