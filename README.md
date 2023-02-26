@@ -1,5 +1,7 @@
 # MintGreen: Redefining mining, in a sustainable manner.
-<p style="text-align:right">A case study by Julian Ritchey</p>  
+
+<p align="right">A case study by Julian Ritchey</p>  
+
 ![MintGreen Logo](mintgreen-logo.svg)
 
 ## Overview and Origin
