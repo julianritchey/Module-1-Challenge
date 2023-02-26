@@ -43,7 +43,13 @@ X * Which technologies are they currently using, and how are they implementing t
 As a miner in the blockchain and crypto domain, MintGreen is subject to an ever-changing terrain. Blockchain and crypto have experienced widespread adoption and use by various industries in recent years. For example,
 - in Canada, major financial institutions like CIBC utilize a blockchain-based service from SecureKey Technologies Inc. for client identification;
 - in England, healthcare patients can utilize a blockchain-based service from Medicalchain SA for sharing and storing personal health records;
-- in the United States, companies like Walmart Inc. are utilizing blockchains like Hyperledger Fabric to track the origin and movement of various products.<sup>[[10]](#ref10)[[11]](#ref11)[[12]](#ref12)</sup>
+- in the United States, companies like Walmart Inc. are utilizing blockchains like Hyperledger Fabric to track the origin and movement of various products.
+<sup>[[10]](#ref10)[[11]](#ref11)[[12]](#ref12)</sup>
+
+Some of the other major players in the Canadian blockchain and crypto domain include
+- Hut 8, one of the largest mining companies in the world,<sup>[[13]](#ref13)</sup>
+- Blockstream, a leading provider of blockchain technologies,<sup>[[14]](#ref14)</sup>
+- Blockchain Research Institute, a global community of research professionals.<sup>[[15]](#ref15)</sup>
 
 X * What domain of the financial industry is the company in?
 
@@ -53,7 +59,7 @@ X * What are the other major companies in this domain?
 
 ## Results
 
-MintGreen's renewable energy-powered mining centers are helping businesses and communities lower their carbon footprint, along with cryptocurrency mining as a whole. MintGreen has proven that not only is heat recovery and distribution from the cryptocurrency mining process possible but mining can also serve a two-fold purpose. MintGreen's current 12-year contract with LEC requires the company provide at least 96% of its energy to LEC in the form of heat. If MintGreen meets this demand, it is estimated that its Digital Boilers™ will prevent roughly 20,000 tonnes of greenhouse gases from entering the atmosphere over the term of the contract, when compared to energy supplied by natural gas.<sup>[[4]](#ref4)[[13]](#ref13)</sup>
+MintGreen's renewable energy-powered mining centers are helping businesses and communities lower their carbon footprint, along with cryptocurrency mining as a whole. MintGreen has proven that not only is heat recovery and distribution from the cryptocurrency mining process possible but mining can also serve a two-fold purpose. MintGreen's current 12-year contract with LEC requires the company provide at least 96% of its energy to LEC in the form of heat. If MintGreen meets this demand, it is estimated that its Digital Boilers™ will prevent roughly 20,000 tonnes of greenhouse gases from entering the atmosphere over the term of the contract, when compared to energy supplied by natural gas.<sup>[[4]](#ref4)[[16]](#ref16)</sup>
 
 X * What has been the business impact of this company so far?
 
@@ -89,4 +95,7 @@ X * Why are these technologies appropriate for your solution?
 10. <a name="ref10"></a>https://www.itworldcanada.com/article/canadas-big-5-banks-launch-blockchain-based-digital-identity-service-with-securekey/417406  
 11. <a name="ref11"></a>https://medicalchain.com/en/  
 12. <a name="ref12"></a>https://www.hyperledger.org/learn/publications/walmart-case-study
-13. <a name="ref13"></a>https://bitcoinmagazine.com/business/north-vancouver-to-be-worlds-first-city-heated-by-bitcoin-mining
+13. <a name="ref13"></a>https://hut8.io/
+14. <a name="ref14"></a>https://blockstream.com/
+15. <a name="ref15"></a>https://www.blockchainresearchinstitute.org/
+16. <a name="ref16"></a>https://bitcoinmagazine.com/business/north-vancouver-to-be-worlds-first-city-heated-by-bitcoin-mining
