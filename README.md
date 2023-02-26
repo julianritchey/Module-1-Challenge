@@ -1,4 +1,5 @@
 # MintGreen: Redefining mining, in a sustainable manner.
+![MintGreen Logo](mintgreen-logo.svg)
 
 ## Overview and Origin
 
