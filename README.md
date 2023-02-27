@@ -36,15 +36,18 @@ This adoption has not been without its difficulties, though, especially in the m
 - Poolin, who moved much of their operation to Texas;<sup>[[15]](#ref15)
 - Bitmain, who have expanded their facility in Texas.<sup>[[15]](#ref15)
 
+To quote Sullivan from a YouTube video posted by Kinetic Finance:<sup>[[16]](#ref16)</sup>
+> Energy use has never had to be defended ... I think Bitcoin is the only use of energy that's ever had to articulate why that use is appropriate.
+
 While MintGreen's approach to green mining is one-of-a-kind, the company is not alone in its use of sustainable energy.
-- American company EZ Blockchain, LLC has developed portable mining containers that it ships to rural industrial sites, like solar farms and wind farms, to convert wasted energy into profit. One such process is the capturing of burnoff from flare stacks at oil and gas facilities to produce electrical energy to power the mining containers.<sup>[[16]](#ref16)
-- Canadian company Hive Blockchain Technologies Ltd. utilizes renewable hydroelectricity for its data and mining centers in Canada and Sweden. In Iceland the company adds geothermal energy to its electricity source.<sup>[[17]](#ref17)</sup>
-- The government of El Salvador utilizes geothermal energy for its mining center, located at the base of a volcano.<sup>[[18]](#ref18)</sup>
+- American company EZ Blockchain, LLC has developed portable mining containers that it ships to rural industrial sites, like solar farms and wind farms, to convert wasted energy into profit. One such process is the capturing of burnoff from flare stacks at oil and gas facilities to produce electrical energy to power the mining containers.<sup>[[17]](#ref17)
+- Canadian company Hive Blockchain Technologies Ltd. utilizes renewable hydroelectricity for its data and mining centers in Canada and Sweden. In Iceland the company adds geothermal energy to its electricity source.<sup>[[18]](#ref18)</sup>
+- The government of El Salvador utilizes geothermal energy for its mining center, located at the base of a volcano.<sup>[[19]](#ref19)</sup>
 
 When it comes to the blockchain and crypto domain as a whole, Canada is quickly becoming home to some major players. Some of the large blockchain companies that call Canada home include
-- Hut 8, one of the largest mining companies in the world,<sup>[[19]](#ref19)</sup>
-- Blockstream, a leading provider of blockchain technologies (and whose former CSO, Samson Mow, is now a Bitcoin advisor for MintGreen),<sup>[[20]](#ref20)</sup>
-- Blockchain Research Institute, a global community of research professionals.<sup>[[21]](#ref21)</sup>
+- Hut 8, one of the largest mining companies in the world,<sup>[[20]](#ref20)</sup>
+- Blockstream, a leading provider of blockchain technologies (and whose former CSO, Samson Mow, is now a Bitcoin advisor for MintGreen),<sup>[[21]](#ref21)</sup>
+- Blockchain Research Institute, a global community of research professionals.<sup>[[22]](#ref22)</sup>
 
 ## Results
 
@@ -54,12 +57,12 @@ Moving forward, MintGreen's key performance indicators will be the following:
 
 - Percentage of energy recovered.
 
-    MintGreen claims its system can recover 96% of the energy used in the cryptocurrency mining process. The company will need to ensure its systems maintain this target as a minimum. Regarding the company's current 12-year contract with LEC, Sullivan has stated:<sup>[[4]](#ref4)[[22]](#ref22)</sup>
+    MintGreen claims its system can recover 96% of the energy used in the cryptocurrency mining process. The company will need to ensure its systems maintain this target as a minimum. Regarding the company's current 12-year contract with LEC, Sullivan has stated:<sup>[[4]](#ref4)[[23]](#ref23)</sup>
     > In our work, we're contractually obligated to provide 96% of our energy in the form of heat. We think we can do better than that.
 
 - Greenhouse gases (GHGs) prevented.
 
-    As a sustainable and eco-friendly business, one of MintGreen's focuses is the reduction of carbon footprints. If MintGreen meets its contractual demands from LEC, it is estimated that its Digital Boilers™ will prevent roughly 20,000 tonnes of GHGs per megawatt of energy from entering the atmosphere when compared to energy supplied by natural gas. Though only an estimated value, the prevention of GHG emissions can result in businesses and communities achieving carbon footprint-reduction goals and, where applicable, earning tax credits.<sup>[[22]](#ref22)</sup>
+    As a sustainable and eco-friendly business, one of MintGreen's focuses is the reduction of carbon footprints. If MintGreen meets its contractual demands from LEC, it is estimated that its Digital Boilers™ will prevent roughly 20,000 tonnes of GHGs per megawatt of energy from entering the atmosphere when compared to energy supplied by natural gas. Though only an estimated value, the prevention of GHG emissions can result in businesses and communities achieving carbon footprint-reduction goals and, where applicable, earning tax credits.<sup>[[23]](#ref23)</sup>
 
 - Price of energy sold
 
@@ -84,9 +87,9 @@ Moving forward, MintGreen's key performance indicators will be the following:
 
 ## Recommendations
 
-While MintGreen's distribution of recovered mining heat to district energy suppliers for residential and commercial heating is already a first of its kind, the idea sets the company up for other potential firsts. One such potential first could be the use of recovered heat for boiling water to supply steam-powered generators. The generators could then feed power back into the local power grid, offsetting some of the mining center's power consumption. If the mining centers are located near hydroelectric generation facilities, there would be an ample supply of power and water for the mining and steam generation process. In terms of energy usage, this idea would benefit no entity other than MintGreen, though it could provide them with inexpensive power for mining endeavours. Similar work with hydroelectric plants for self-sustaining revenue has been performed by Virunga National Park in the Democratic Republic of Congo.<sup>[[23]](#ref23)</sup>
+While MintGreen's distribution of recovered mining heat to district energy suppliers for residential and commercial heating is already a first of its kind, the idea sets the company up for other potential firsts. One such potential first could be the use of recovered heat for boiling water to supply steam-powered generators. The generators could then feed power back into the local power grid, offsetting some of the mining center's power consumption. If the mining centers are located near hydroelectric generation facilities, there would be an ample supply of power and water for the mining and steam generation process. In terms of energy usage, this idea would benefit no entity other than MintGreen, though it could provide them with inexpensive power for mining endeavours. Similar work with hydroelectric plants for self-sustaining revenue has been performed by Virunga National Park in the Democratic Republic of Congo.<sup>[[24]](#ref24)</sup>
 
-Another potential first could be the development of point-of-use heating-and-mining devices. These devices could utilize a throttle mechanism that turns individual mining units on and off based on feedback from a thermostat. The devices could also be adapted to provide cooling through a heat-powered refrigeration system, much like gas-powered refrigerators. In addition to earning mined cryptocurrency, MintGreen could lease these units at low costs to end-users, reducing users' utility costs and carbon footprint, and potentially earning them tax credits (depending on the location of use). These point-of-use devices could provide alternative heating and cooling services to locations not tied into a district energy system.<sup>[[24]](#ref24)</sup>
+Another potential first could be the development of point-of-use heating-and-mining devices. These devices could utilize a throttle mechanism that turns individual mining units on and off based on feedback from a thermostat. The devices could also be adapted to provide cooling through a heat-powered refrigeration system, much like gas-powered refrigerators. In addition to earning mined cryptocurrency, MintGreen could lease these units at low costs to end-users, reducing users' utility costs and carbon footprint, and potentially earning them tax credits (depending on the location of use). These point-of-use devices could provide alternative heating and cooling services to locations not tied into a district energy system.<sup>[[25]](#ref25)</sup>
 
 ## References
 
@@ -105,12 +108,13 @@ Another potential first could be the development of point-of-use heating-and-min
 13. <a name="ref13"></a>https://www.reuters.com/business/el-salvador-sees-greener-crypto-currency-mining-its-future-2021-10-15/  
 14. <a name="ref14"></a>https://news.bitcoin.com/bit-mining-moving-3000-bitcoin-mining-machines-to-kazakhstan-following-china-crackdown/  
 15. <a name="ref15"></a>https://www.bbc.com/news/world-us-canada-58414555  
-16. <a name="ref16"></a>https://ezblockchain.net/  
-17. <a name="ref17"></a>https://www.hiveblockchain.com/  
-18. <a name="ref18"></a>https://www.reuters.com/business/el-salvador-sees-greener-crypto-currency-mining-its-future-2021-10-15/  
-19. <a name="ref19"></a>https://hut8.io/  
-20. <a name="ref20"></a>https://blockstream.com/  
-21. <a name="ref21"></a>https://www.blockchainresearchinstitute.org/  
-22. <a name="ref22"></a>https://bitcoinmagazine.com/business/north-vancouver-to-be-worlds-first-city-heated-by-bitcoin-mining  
-23. <a name="ref23"></a>https://thecryptobasic.com/2023/01/13/bitcoin-saving-wildlife-virunga-national-park-in-congo-turns-to-btc-mining/  
-24. <a name="ref24"></a>https://homeguides.sfgate.com/houseplants-repel-mosquitoes-cockroaches-pests-13771627.html
+16. <a name="ref16"></a>https://www.youtube.com/watch?v=nTRdmYX-0h8  
+17. <a name="ref17"></a>https://ezblockchain.net/  
+18. <a name="ref18"></a>https://www.hiveblockchain.com/  
+19. <a name="ref19"></a>https://www.reuters.com/business/el-salvador-sees-greener-crypto-currency-mining-its-future-2021-10-15/  
+20. <a name="ref20"></a>https://hut8.io/  
+21. <a name="ref21"></a>https://blockstream.com/  
+22. <a name="ref22"></a>https://www.blockchainresearchinstitute.org/  
+23. <a name="ref23"></a>https://bitcoinmagazine.com/business/north-vancouver-to-be-worlds-first-city-heated-by-bitcoin-mining  
+24. <a name="ref24"></a>https://thecryptobasic.com/2023/01/13/bitcoin-saving-wildlife-virunga-national-park-in-congo-turns-to-btc-mining/  
+25. <a name="ref25"></a>https://homeguides.sfgate.com/houseplants-repel-mosquitoes-cockroaches-pests-13771627.html
