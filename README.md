@@ -34,14 +34,14 @@ As a miner in the blockchain and crypto domain, MintGreen is subject to an ever-
 This adoption has not been without its difficulties, though, especially in the mining sector. With the high energy demand required by proof-of-work systems, countries like China have placed heavy restrictions and bans on local mining operations. These restrictions and bans have forced many mining companies to move their operations to other countries. Some examples are
 - Bit Mining Ltd., who moved much of their operation to Kazakhstan, and have invested in a mining center in Texas;<sup>[[14]](#ref14)
 - Poolin, who moved much of their operation to Texas;<sup>[[15]](#ref15)
-- Bitmain, who have expanded their facility in Texas;<sup>[[15]](#ref15)
+- Bitmain, who have expanded their facility in Texas.<sup>[[15]](#ref15)
 
 While MintGreen's approach to green mining is one-of-a-kind, the company is not alone in its use of sustainable energy.
 - American company EZ Blockchain, LLC has developed portable mining containers that it ships to rural industrial sites, like solar farms and wind farms, to convert wasted energy into profit. One such process is the capturing of burnoff from flare stacks at oil and gas facilities to produce electrical energy to power the mining containers.<sup>[[16]](#ref16)
 - Canadian company Hive Blockchain Technologies Ltd. utilizes renewable hydroelectricity for its data and mining centers in Canada and Sweden. In Iceland the company adds geothermal energy to its electricity source.<sup>[[17]](#ref17)</sup>
 - The government of El Salvador utilizes geothermal energy for its mining center, located at the base of a volcano.<sup>[[18]](#ref18)</sup>
 
-Some of the other major players in the Canadian blockchain and crypto domain include
+When it comes to the blockchain and crypto domain as a whole, Canada is quickly becoming home to some major players. Some of the large blockchain companies that call Canada home include
 - Hut 8, one of the largest mining companies in the world,<sup>[[19]](#ref19)</sup>
 - Blockstream, a leading provider of blockchain technologies (and whose former CSO, Samson Mow, is now a Bitcoin advisor for MintGreen),<sup>[[20]](#ref20)</sup>
 - Blockchain Research Institute, a global community of research professionals.<sup>[[21]](#ref21)</sup>
