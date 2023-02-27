@@ -29,7 +29,7 @@ As a miner in the blockchain and crypto domain, MintGreen is subject to an ever-
 - in Canada, major financial institutions like CIBC utilize a blockchain-based service from SecureKey Technologies Inc. for client identification;<sup>[[10]](#ref10)</sup>
 - in England, healthcare patients can utilize a blockchain-based service from Medicalchain SA for sharing and storing personal health records;<sup>[[11]](#ref11)</sup>
 - in the United States, companies like Walmart Inc. are utilizing blockchains like Hyperledger Fabric to track the origin and movement of various products from around the world;<sup>[[12]](#ref12)</sup>
-- in El Salvador, Bitcoin has been adopted as legal tender.[[13]](#ref13)</sup>
+- in El Salvador, Bitcoin has been adopted as legal tender.<sup>[[13]](#ref13)</sup>
 
 This adoption has not been without its difficulties, though, especially in the mining sector. With the high energy demand required by proof-of-work systems, countries like China have placed heavy restrictions and bans on local mining operations. These restrictions and bans have forced many mining companies to move their operations to other countries. Some examples are
 - Bit Mining Ltd., who moved much of their operation to Kazakhstan, and have invested in a mining center in Texas;<sup>[[14]](#ref14)
