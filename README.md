@@ -33,8 +33,8 @@ As a miner in the blockchain and crypto domain, MintGreen is subject to an ever-
 
 This adoption has not been without its difficulties, though, especially in the mining sector. With the high energy demand required by proof-of-work systems, countries like China have placed heavy restrictions and bans on local mining operations. These restrictions and bans have forced many mining companies to move their operations to other countries. Some examples are
 - Bit Mining Ltd., who moved much of their operation to Kazakhstan, and have invested in a mining center in Texas;<sup>[[14]](#ref14)
-- Poolin, who moved much of their operation to Texas;<sup>[[14]](#ref15)
-- Bitmain, who have expanded their facility in Texas;<sup[[14]](#ref15)
+- Poolin, who moved much of their operation to Texas;<sup>[[15]](#ref15)
+- Bitmain, who have expanded their facility in Texas;<sup>[[15]](#ref15)
 
 While MintGreen's approach to green mining is one-of-a-kind, the company is not alone in its use of sustainable energy.
 - American company EZ Blockchain, LLC has developed portable mining containers that it ships to rural industrial sites, like solar farms and wind farms, to convert wasted energy into profit. One such process is the capturing of burnoff from flare stacks at oil and gas facilities to produce electrical energy to power the mining containers.<sup>[[16]](#ref16)
